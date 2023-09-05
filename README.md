@@ -10,8 +10,8 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
