@@ -1,4 +1,4 @@
-### Hello, my name is Yonel Mamani. 👋
+### Hello. 👋
 
 
 
