@@ -25,13 +25,11 @@
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) -->
 
 ### OSs
 ![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux)
 ![MAC OS](https://img.shields.io/badge/MAC%20OS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
