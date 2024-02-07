@@ -7,7 +7,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
@@ -15,8 +14,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
-
-<!-- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white) -->
 
 
 ### 
