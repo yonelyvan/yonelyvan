@@ -10,6 +10,7 @@
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
