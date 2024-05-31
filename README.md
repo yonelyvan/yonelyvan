@@ -34,6 +34,4 @@
 
 ### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-GitHub Actions for CI/CD to automate the build, test, and deployment processes. 
-
  
